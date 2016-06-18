@@ -1,0 +1,12 @@
+[submodule "win-ffi-kernel32"]
+	path = win-ffi-kernel32
+	url = git@github.com:P3t3rU5/win-ffi-kernel32.git
+[submodule "win-ffi-user32"]
+	path = win-ffi-user32
+	url = git@github.com:P3t3rU5/win-ffi-user32.git
+[submodule "win-ffi-gdi32"]
+	path = win-ffi-gdi32
+	url = git@github.com:P3t3rU5/win-ffi-gdi32.git
+[submodule "win-ffi-core"]
+	path = win-ffi-core
+	url = git@github.com:P3t3rU5/win-ffi-core.git
