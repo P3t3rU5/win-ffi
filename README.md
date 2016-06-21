@@ -1,6 +1,6 @@
 # WinFFI
 
-[![Join the chat at https://gitter.im/P3t3rU5/winffi](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/P3t3rU5/winffi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/P3t3rU5/win-ffi.svg)](https://gitter.im/P3t3rU5/win-ffi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 WinFFI is a gem to use the windows API using the ffi gem inspired by windows-pr gem.
 This gem is work in progress
